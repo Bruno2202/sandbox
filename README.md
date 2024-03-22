@@ -4,6 +4,8 @@
 
 Sandbox é uma rede social simples, interativa e divertida, na qual os usuários podem compartilhar textos e imagens.
 
+![show app](https://github.com/Bruno2202/sandbox/assets/61920647/62bbfbfe-a5e3-4bec-9450-9379882bbcb7)
+
 ## Como surgiu? 🤔
 
 O Sandbox teve origem a partir de testes das funcionalidades do Firebase, especialmente no que diz respeito à autenticação de usuários. Durante os experimentos com as tecnologias oferecidas pelo Firebase, o projeto evoluiu para se tornar uma rede social voltada para amigos.
