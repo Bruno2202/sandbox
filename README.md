@@ -3,7 +3,9 @@
 # [Sandbox](https://www.youtube.com/watch?v=dQw4w9WgXcQ) &middot; ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Sandbox é uma rede social simples, interativa e divertida, na qual os usuários podem compartilhar textos e imagens.
+
 ![show app](https://github.com/Bruno2202/sandbox/assets/61920647/c7496946-ab95-4943-b02b-561157baebdb)
+
 ## Como surgiu? 🤔
 
 O Sandbox teve origem a partir de testes das funcionalidades do Firebase, especialmente no que diz respeito à autenticação de usuários. Durante os experimentos com as tecnologias oferecidas pelo Firebase, o projeto evoluiu para se tornar uma rede social voltada para amigos.
