@@ -4,7 +4,7 @@
 
 Sandbox é uma rede social simples, interativa e divertida, na qual os usuários podem compartilhar textos e imagens.
 
-![show app](https://github.com/Bruno2202/sandbox/assets/61920647/fef04618-a927-4ee0-9431-31bb73f715e6)
+![show app](https://github.com/Bruno2202/sandbox/assets/61920647/c7496946-ab95-4943-b02b-561157baebdb)
 
 ## Como surgiu? 🤔
 
