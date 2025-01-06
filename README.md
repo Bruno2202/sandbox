@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Bruno2202/sandbox/assets/61920647/c131e5db-4887-4ff5-85ac-b8ffa0f0d342)
 
-# [Sandbox](https://www.youtube.com/watch?v=dQw4w9WgXcQ) &middot; ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+# [Sandbox](https://github.com/Bruno2202/sandbox) &middot; ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Sandbox é uma rede social simples, interativa e divertida, na qual os usuários podem compartilhar textos e imagens.
 
